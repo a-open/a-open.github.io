@@ -29,8 +29,12 @@ body {
     border: 0.5px solid rgba(255, 255, 255, 0.185);
 }
 
-.answer-container-1264:hover {
-    background-color: rgb(39, 39, 39) !important;
+@media (hover: hover){
+    
+    .answer-container-1264:hover {
+        background-color: rgb(39, 39, 39) !important;
+    }
+    
 }
 
 .answer-text-3278 {

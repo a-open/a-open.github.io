@@ -182,7 +182,7 @@ function toggleTrain() {
     console.log("toggleTrain toggled");
 }
 
-console.log("%cAny changes made here can end in a wrong result!", "color: red; font-size: 1.5rem;"); 
+console.log("%cAny changes made here can end in a misleading result!", "color: red; font-size: 1.5rem;"); 
 
 var rqid = Math.floor((Math.random() * (result.length - 1)) + 1).toString(); // Random Question Identifier;
 
